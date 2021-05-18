@@ -1,0 +1,140 @@
+{
+  "items": [
+    {
+      "type": "cheese",
+      "topping1": "beef",
+      "topping2": "cheese",
+      "image": "./img/beefS.png"
+    },
+    {
+      "type": "beef",
+      "topping1": "ham",
+      "topping2": "cheese",
+      "image": "./img/hamS.png"
+    },
+    {
+      "type": "cheese",
+      "topping1": "pork",
+      "topping2": "cheese",
+      "image": "./img/porkS.png"
+    },
+    {
+      "type": "shrimp",
+      "topping1": "shrimp",
+      "topping2": "cheese",
+      "image": "./img/shrimpS.png"
+    },
+    {
+      "type": "beef",
+      "topping1": "ham",
+      "topping2": "cheese",
+      "image": "./img/porkS.png"
+    },
+    {
+      "type": "cheese",
+      "topping1": "shrimp",
+      "topping2": "cheese",
+      "image": "./img/shrimpS.png"
+    },
+    {
+      "type": "vege",
+      "topping1": "shrimp",
+      "topping2": "salad",
+      "image": "./img/salad2.png"
+    },
+    {
+      "type": "vege",
+      "gender": "rosted shrimp",
+      "topping1": "shrimp",
+      "topping2": "salad",
+      "image": "./img/salad3.png"
+    },
+    {
+      "type": "shrimp",
+      "topping1": "shrimp",
+      "topping2": "salad",
+      "image": "./img/salad1.png"
+    },
+    {
+      "type": "shrimp",
+      "topping1": "shrimp",
+      "topping2": "salad",
+      "image": "./img/salad2.png"
+    },
+    {
+      "type": "shrimp",
+      "topping1": "shrimp",
+      "topping2": "salad",
+      "image": "./img/salad3.png"
+    },
+    {
+      "type": "beef",
+      "topping1": "beef",
+      "topping2": "cheese",
+      "image": "./img/beefS.png"
+    },
+    {
+      "type": "beef",
+      "topping1": "steak",
+      "topping2": "cheese",
+      "image": "./img/steak2S.png"
+    },
+    {
+      "type": "beef",
+      "topping1": "steak",
+      "topping2": "cheese",
+      "image": "./img/steakS.png"
+    },
+    {
+      "type": "cheese",
+      "topping1": "chicken",
+      "topping2": "cheese",
+      "image": "./img/chickenS.png"
+    },
+    {
+      "type": "cheese",
+      "topping1": "chicken",
+      "topping2": "cheese",
+      "image": "./img/chicken2S.png"
+    },
+    {
+      "type": "vege",
+      "topping1": "shrimp",
+      "topping2": "salad",
+      "image": "./img/salad1.png"
+    },
+    {
+      "type": "sweets",
+      "gender": "rosted shrimp",
+      "topping1": "chocolate",
+      "topping2": "cookie",
+      "image": "./img/cookie1.png"
+    },
+    {
+      "type": "sweets",
+      "gender": "rosted shrimp",
+      "topping1": "berry",
+      "topping2": "cookie",
+      "image": "./img/cookie2.png"
+    },
+    {
+      "type": "sweets",
+      "gender": "rosted shrimp",
+      "topping1": "hash",
+      "topping2": "potato",
+      "image": "./img/potato.png"
+    },
+    {
+      "type": "vege",
+      "topping1": "onion",
+      "topping2": "tomato",
+      "image": "./img/vegan2S.png"
+    },
+    {
+      "type": "vege",
+      "topping1": "tomato",
+      "topping2": "egg",
+      "image": "./img/veganS.png"
+    }
+  ]
+}
